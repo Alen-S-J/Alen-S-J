@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alan Sabu John</h1>
 <h3 align="center">A machine learning enthusiast with a strong interest in artificial intelligence</h3>
-<iframe src="https://giphy.com/embed/CuuSHzuc0O166MRfjt" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-pudgy-penguin-penguins-CuuSHzuc0O166MRfjt">
+<img src="https://carlyberry.me/portrait-animated-gif" alt="carlyberry" style="width:48px;height:48px;">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=githubsemp-ai&label=Profile%20views&color=0e75b6&style=flat" alt="githubsemp-ai" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@alan_45797" target="blank"><img src="https://img.shields.io/twitter/follow/@alan_45797?logo=twitter&style=for-the-badge" alt="@alan_45797" /></a> </p>
