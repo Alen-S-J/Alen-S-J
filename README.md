@@ -1,5 +1,5 @@
+<a href="https://www.freepik.com/free-vector/machine-learning-banner-artificial-intelligence_6993831.htm">Image by upklyak</a> on Freepik
 
-[![MasterHead]<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/SPZFhfUJjsJO0" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/internet-level-ii-SPZFhfUJjsJO0">via GIPHY</a></p>]
 <h1 align="center">Hi 👋, I'm Alan Sabu John</h1>
 <h3 align="center">A machine learning enthusiast with a strong interest in artificial intelligence</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=githubsemp-ai&label=Profile%20views&color=0e75b6&style=flat" alt="githubsemp-ai" /> </p>
