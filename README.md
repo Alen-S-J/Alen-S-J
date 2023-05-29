@@ -1,6 +1,5 @@
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-</p>
+
+[![MasterHead](https://www.freepik.com/free-vector/machine-learning-banner-artificial-intelligence_6993831.htm)]
 <h1 align="center">Hi 👋, I'm Alan Sabu John</h1>
 <h3 align="center">A machine learning enthusiast with a strong interest in artificial intelligence</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=githubsemp-ai&label=Profile%20views&color=0e75b6&style=flat" alt="githubsemp-ai" /> </p>
