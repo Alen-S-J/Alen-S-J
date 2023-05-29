@@ -1,4 +1,4 @@
-<a href="https://www.freepik.com/free-vector/machine-learning-banner-artificial-intelligence_6993831.htm">Image by upklyak</a> on Freepik
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Alan Sabu John</h1>
 <h3 align="center">A machine learning enthusiast with a strong interest in artificial intelligence</h3>
