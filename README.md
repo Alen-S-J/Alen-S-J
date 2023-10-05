@@ -1,3 +1,7 @@
+<div>
+<img src="https://user-images.githubusercontent.com/59453698/178947079-df3cd391-b419-4258-a542-b9a7e47e4351.gif" alt="banner">
+</div>
+
 <h1 align="center">Hi 👋, I'm Alan Sabu John</h1>
 <h3 align="center">A machine learning enthusiast with a strong interest in artificial intelligence</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=githubsemp-ai&label=Profile%20views&color=0e75b6&style=flat" alt="githubsemp-ai" /> </p>
