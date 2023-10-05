@@ -1,5 +1,5 @@
+![Custom GIF](https://github.com/Alen-S-J/Alen-S-J/blob/main/ezgif.com-resize%20(1).gif){width=1280 height=640}
 
- [![Custom Banner](https://media.giphy.com/media/EZNNnZf5h9NrHdlkNb/giphy.gif)](https://giphy.com/gifs/ai-ml-deep-learning-EZNNnZf5h9NrHdlkNb)
  
 <h1 align="center">Hi 👋, I'm Alan Sabu John</h1>
 <h3 align="center">A machine learning enthusiast with a strong interest in artificial intelligence</h3>
