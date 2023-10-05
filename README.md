@@ -1,5 +1,5 @@
 <div>
-<img src="https://user-images.githubusercontent.com/59453698/178947079-df3cd391-b419-4258-a542-b9a7e47e4351.gif" alt=""soura-banner">
+<img src="https://user-images.githubusercontent.com/59453698/178947079-df3cd391-b419-4258-a542-b9a7e47e4351.gif" alt=""soura-banner" width="500px>
 </div>
 
 <h1 align="center">Hi 👋, I'm Alan Sabu John</h1>
