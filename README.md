@@ -1,9 +1,6 @@
-<div>
-  <video width="640" height="480" controls>
-    <source src="https://github.com/Alen-S-J/can you create a animated gif by using these image_animation.mp4" type="video/mp4">
-  </video>
-</div>
 
+ [![Custom Banner](https://media.giphy.com/media/EZNNnZf5h9NrHdlkNb/giphy.gif)](https://giphy.com/gifs/ai-ml-deep-learning-EZNNnZf5h9NrHdlkNb)
+ 
 <h1 align="center">Hi 👋, I'm Alan Sabu John</h1>
 <h3 align="center">A machine learning enthusiast with a strong interest in artificial intelligence</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=githubsemp-ai&label=Profile%20views&color=0e75b6&style=flat" alt="githubsemp-ai" /> </p>
