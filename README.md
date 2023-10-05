@@ -1,5 +1,8 @@
 <div>
-<img src="https://user-images.githubusercontent.com/59453698/178947079-df3cd391-b419-4258-a542-b9a7e47e4351.gif" alt=""soura-banner">
+<video width="640" height="480" controls>
+  <source src="Alen-S-J/can you create a animated gif by using these image_animation.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 </div>
 
 <h1 align="center">Hi 👋, I'm Alan Sabu John</h1>
