@@ -1,7 +1,7 @@
 <div>
-<video width="640" height="480" controls>
-  <source src="Alen-S-J/can you create a animated gif by using these image_animation.mp4" type="video/mp4">
-</video>
+  <video width="640" height="480" controls>
+    <source src="https://github.com/Alen-S-J/can you create a animated gif by using these image_animation.mp4" type="video/mp4">
+  </video>
 </div>
 
 <h1 align="center">Hi 👋, I'm Alan Sabu John</h1>
