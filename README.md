@@ -1,4 +1,4 @@
-![Custom GIF](https://github.com/Alen-S-J/Alen-S-J/blob/main/ezgif.com-resize%20(1).gif){width=1280 height=640}
+![Custom GIF](https://github.com/Alen-S-J/Alen-S-J/blob/main/ezgif.com-resize%20(1).gif)
 
  
 <h1 align="center">Hi 👋, I'm Alan Sabu John</h1>
