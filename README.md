@@ -27,9 +27,7 @@
 <a href="https://www.leetcode.com/https://leetcode.com/algo_cipher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/algo_cipher" height="30" width="40" /></a>
 </p>
 
-<h4 align="center">Top langs :tongue:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhellO&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alen-s-j&show_icons=true&locale=en&layout=compact" alt="alen-s-j" /></p>
 
