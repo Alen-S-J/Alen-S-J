@@ -1,7 +1,7 @@
 ![Custom GIF](https://github.com/Alen-S-J/Alen-S-J/blob/main/can-you-create-a-animated-gif-by-using-these-image-animation-1_FEB7k6oJ%20(online-video-cutter.com).gif)
 
  
-<h1 align="center">Hi 👋, I'm Alan Sabu John</h1>
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi 👋, I'm Alan Sabu John</h1>
 <h3 align="center">A machine learning enthusiast with a strong interest in artificial intelligence</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=githubsemp-ai&label=Profile%20views&color=0e75b6&style=flat" alt="githubsemp-ai" /> </p>
