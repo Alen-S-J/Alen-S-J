@@ -1,120 +1,127 @@
 <p align="center">
-  <img src="https://github.com/Alen-S-J/Alen-S-J/blob/main/can-you-create-a-animated-gif-by-using-these-image-animation-1_FEB7k6oJ%20(online-video-cutter.com).gif" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=Alan%20Sabu%20John&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
-<h1 align="center">Alan Sabu John</h1>
-<h3 align="center">AI Engineer • ML Researcher • Data Analyst</h3>
+<h3 align="center">
+AI Engineer • LLM & RAG Specialist • Data Analyst
+</h3>
+
+<p align="center">
+Building intelligent, autonomous, and scalable AI systems
+</p>
+
+<p align="center">
+  <a href="mailto:alansabujohn@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/alan-sabu-john-b38255202">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://twitter.com/alan_45797">
+    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter"/>
+  </a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alen-s-j&label=Profile%20Views&color=0e75b6&style=flat-square"/>
 </p>
 
+---
+
+## 🧠 About Me
+
+> I design **production-ready AI systems** combining LLM reasoning, retrieval, vision, and analytics to solve real-world problems.
+
+- 🔬 Focus: **LLMs, Agentic RAG, Multimodal AI**
+- 🏛️ Research: Govt & academic AI initiatives
+- ⚙️ Mindset: scalable, explainable, deployable AI
+- 🌍 Location: Kerala, India  
+
+📄 **Resume:** [Download PDF](./Alan_Sabu_John.pdf)
+
+---
+
+## 🧩 Core Expertise
+
 <p align="center">
-  <a href="mailto:alansabujohn@gmail.com">
-    <img src="https://img.shields.io/badge/Email-alansabujohn@gmail.com-red?style=flat-square&logo=gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/alan-sabu-john-b38255202">
-    <img src="https://img.shields.io/badge/LinkedIn-Alan%20Sabu%20John-blue?style=flat-square&logo=linkedin"/>
-  </a>
-  <a href="https://twitter.com/alan_45797">
-    <img src="https://img.shields.io/badge/Twitter-@alan__45797-1DA1F2?style=flat-square&logo=twitter"/>
-  </a>
+<img src="https://img.shields.io/badge/LLMs-GPT--4%20|%20Claude%20|%20Open--Source-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-Agentic%20|%20Multimodal-green?style=flat-square"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-YOLO%20|%20OCR-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data%20Analytics-Dashboards%20|%20Insights-purple?style=flat-square"/>
 </p>
 
 ---
 
-## 🧠 Professional Summary
+## 🤖 AI / LLM Highlights
 
-AI Engineer and Data Analyst with hands-on experience in **Machine Learning, LLMs, RAG pipelines, and Computer Vision**.  
-Skilled in building **production-grade AI systems**, agentic workflows, and intelligent analytics pipelines.  
-Passionate about applying **Generative AI to real-world problems** at scale.
-
-📍 Kerala, India  
-📄 Resume: **[Download PDF](./Alan_Sabu_John.pdf)**
-
----
-
-## 🧪 AI / RAG / LLM Highlights 🤖
-
-- 🧩 Built **production-grade RAG pipelines** using OpenAI GPT-4, Claude & open-source LLMs  
-- 🔗 Developed **Agentic RAG systems** with tool orchestration & MCP planning  
-- 🖼️ Engineered **Multimodal RAG** (text + image + tables)  
-- ⚡ Improved response accuracy by **70%** through retrieval tuning & prompt engineering  
-- 🧠 Fine-tuned domain-specific LLMs achieving **85%+ accuracy**
+- 🧠 Agentic RAG with autonomous planning & tool orchestration  
+- 🔗 Memory-aware conversational AI  
+- 🖼️ Multimodal reasoning (text + images + tables)  
+- 📈 70%+ accuracy gain via retrieval tuning  
+- 🛠️ End-to-end pipelines: ingestion → embedding → inference  
 
 ---
 
-## 💼 Experience
+## 🚀 Featured Projects (Auto-Updating)
 
-### 🚀 **AI Engineer (Part-Time)**  
-**Raftel Technologies Pvt. Ltd.** | Remote  
-*Jun 2025 – Sep 2025*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alen-s-j&repo=Hexaco-Prediction-model-for-custom-embeddings&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alen-s-j&repo=Sentiment-Analysis-ML&theme=tokyonight"/>
+</p>
 
-- Built scalable **Retrieval-Augmented Generation (RAG)** systems  
-- Developed **agentic AI workflows** reducing manual effort by 60%  
-- Created conversational AI using **LangChain, LlamaIndex & FastAPI**  
-- Optimized retrieval pipelines (FAISS, ChromaDB, MongoDB Atlas)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alen-s-j&repo=RAG-Chatbot-System&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alen-s-j&repo=AI-Inspection-System&theme=tokyonight"/>
+</p>
 
----
-
-### 🏛️ **Project Associate**  
-**National Institute of Technology Calicut (COEAI – SAMUDRA)**  
-*Aug 2024 – Dec 2024*
-
-- Developed AI-based **civil infrastructure inspection systems**  
-- Reduced inspection time by **40%** using YOLO & photogrammetry  
-- Built OCR pipelines digitizing **3,000+ engineering documents**  
-- Created **GenAI report assistants** for civil engineers  
+> ⭐ These cards auto-update with stars, forks, and repo changes.
 
 ---
 
-## 🚧 Featured Projects 🎯
+## 🧪 AI / RAG / LLM Projects
 
-### 🔹 **Agentic RAG System**
-![LLM](https://img.shields.io/badge/LLM-GPT--4%20%7C%20Claude-blue)
-![RAG](https://img.shields.io/badge/RAG-LangChain-green)
-![VectorDB](https://img.shields.io/badge/VectorDB-FAISS-orange)
-
-> Autonomous RAG pipeline with planning, memory & tool execution.
-
----
-
-### 🔹 **Multimodal AI Inspector**
-![CV](https://img.shields.io/badge/CV-YOLO-red)
-![GenAI](https://img.shields.io/badge/GenAI-LLM-purple)
-
-> Vision + LLM system for smart infrastructure inspection.
+| Project | Tech Stack | Impact |
+|------|-----------|-------|
+| **Agentic RAG System** | GPT-4 · LangChain · FAISS | Autonomous reasoning |
+| **Multimodal RAG** | LLM · OCR · Vision | Cross-modal retrieval |
+| **Sentiment Engine** | Transformers · ML | Real-world opinion mining |
+| **AI Inspection System** | YOLO · GenAI | 40% inspection time reduction |
 
 ---
 
-### 🔹 **Sentiment Analysis Engine**
-![ML](https://img.shields.io/badge/ML-Scikit--Learn-yellow)
-![NLP](https://img.shields.io/badge/NLP-Transformers-blue)
+## 💼 Experience Timeline
 
-> Real-world sentiment classifier with explainable outputs.
+### 🚀 AI Engineer — Raftel Technologies (Remote)  
+**2025**
+- Built scalable RAG & conversational AI systems  
+- Improved relevance by 70%  
+- Designed agentic workflows  
+
+### 🏛️ Project Associate — NIT Calicut (COEAI)  
+**2024**
+- AI for smart infrastructure  
+- OCR + CV pipelines  
+- GenAI-assisted engineering reports  
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:**  
-Python • C • C++ • JavaScript • SQL  
+**Languages**  
+`Python` `C` `C++` `JavaScript` `SQL`
 
-**AI / ML:**  
-PyTorch • TensorFlow • Transformers • OpenCV • scikit-learn  
+**AI / ML**  
+`PyTorch` `TensorFlow` `Transformers` `OpenCV`
 
-**LLM / RAG:**  
-OpenAI • LangChain • LlamaIndex • FAISS • ChromaDB  
+**LLM & RAG**  
+`LangChain` `LlamaIndex` `FAISS` `ChromaDB`
 
-**Data & Analytics:**  
-Pandas • NumPy • Matplotlib • Seaborn • Plotly  
-
-**DevOps & Platforms:**  
-Docker • Git • GCP (Vertex AI) • Azure • IBM Cloud  
+**Cloud & DevOps**  
+`Docker` `Git` `GCP` `Azure` `IBM Cloud`
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Live GitHub Metrics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alen-s-j&show_icons=true&theme=tokyonight"/>
@@ -126,7 +133,7 @@ Docker • Git • GCP (Vertex AI) • Azure • IBM Cloud
 
 ---
 
-## 📈 Contribution Graph (Animated)
+## 📈 Contribution Graph (Live)
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alen-s-j&theme=tokyo-night"/>
@@ -134,16 +141,28 @@ Docker • Git • GCP (Vertex AI) • Azure • IBM Cloud
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alen-s-j&theme=onestar&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=alen-s-j&theme=onestar&column=6"/>
 </p>
 
 ---
 
+## 🌱 Currently Exploring
+
+- Agentic AI systems
+- Long-context LLM memory
+- Decision intelligence
+- Full-stack AI deployment
+
+---
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+  <i>"Build systems that don’t just answer — they reason."</i>
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+</p>
 
