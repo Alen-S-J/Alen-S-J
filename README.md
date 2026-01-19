@@ -41,7 +41,7 @@
 ## 🏆GitHub Trophy
 
   <!--- trophy (start) -->
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alen-s-j&layout=compact&column=7&row=1&margin-w=15&margin-h=15" alt="alen-s-j" /></a> </p>
+<p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=monokai"><img src="https://github-profile-trophy.vercel.app/?username=alen-s-j&layout=compact&column=7&row=1&margin-w=15&margin-h=15" alt="alen-s-j" /></a> </p>
 <!--- trophy (end) -->
 
 <p  align="center">
